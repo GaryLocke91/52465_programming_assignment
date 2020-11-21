@@ -1,5 +1,11 @@
 # The numpy.random Package
 ***
+**Author:** Gary Locke (G00387882)
+
+**Module:** Programming for Data Analysis
+
+**Year:** 2020
+***
 
 This Jupyter notebook concerns the ```numpy.random``` package in Python.
 It explains the use of the package, including a detailed explanation of eight distributions provided for in the package.
@@ -42,7 +48,7 @@ The Jupyter Notebook can be installed either from the [main website](https://jup
 
 1. Once Jupyter Notebook is installed, download the notebook to a folder on your computer.
 
-2. Open the command line and browse to the folder the notebook was downloaded to.
+2. Open the command line and browse to the folder the notebook was downloaded to using the ```cd``` command to change directory.
 
 3. Type ```jupyter notebook``` and press ENTER.
 
@@ -50,9 +56,13 @@ The Jupyter Notebook can be installed either from the [main website](https://jup
 
 5. Click on *52465_programming_assignment.ipynb* to open the notebook.
 
-To run a block of code in the notebook, click onto the block, hold down the CTRL key and press ENTER. 
+To run a code cell in the notebook, click onto the cell, hold down the CTRL key and press ENTER. 
 
-It is recommended that each block of code is run sequentially from the beginning to the end of the notebook, as some blocks of code are depended on the imported librares and/or variables created in the preceding block. 
+It is recommended that each cell is run sequentially from the beginning to the end of the notebook, as some are depended on the imported librares and/or variables created in the preceding block. Alternatively, all cells can be run at once by clicking *Cell* from the menu bar and clicking *Run All* from the drop-down menu.  
 
 To restart the kernel and clear all created output, click *Kernel* from the menu bar and click *Restart & Clear Output*.
+
+When you have finished viewing the notebook, close the web browser and return to the command line.
+
+Hold down the CTRL key and press C to terminate the programme.
 
