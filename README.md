@@ -51,7 +51,7 @@ Jupyter Notebook can be installed either from the [main website](https://jupyter
 
 3. Type ```jupyter notebook``` and press ENTER.
 
-4. It opens a tab on your default browser.
+4. It automatically opens a tab in your default browser.
 
 5. Click on *52465_programming_assignment.ipynb* to open the notebook.
 
