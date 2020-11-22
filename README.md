@@ -1,4 +1,4 @@
-# The numpy.random Package
+# The numpy.random package
 ***
 **Author:** Gary Locke (G00387882)
 
@@ -41,7 +41,7 @@ The notebook is divided into the following sections:
 #### 6. References
 ***
 
-### Executing the notebook
+### Executing the Jupyter Notebook
 
 Jupyter Notebook can be installed either from the [main website](https://jupyter.org/) or as part of the [Anaconda Open Source Distribution](https://www.anaconda.com/products/individual). Jupyter is a Python package designed to make it easier to interact with Python.
 
