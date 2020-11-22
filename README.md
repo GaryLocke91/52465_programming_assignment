@@ -7,8 +7,7 @@
 **Year:** 2020
 ***
 
-This Jupyter notebook concerns the ```numpy.random``` package in Python.
-It explains the use of the package, including a detailed explanation of eight distributions provided for in the package.
+This Jupyter Notebook concerns the ```numpy.random``` package in Python. It explains the overall purpose of the package, the use of simple random data functions, permutations functions, and includes a detailed explanation of eight distributions provided for in the package. The final section explains the use of seeds in generating pseudorandom numbers. 
 
 The notebook is divided into the following sections:
 
@@ -16,26 +15,26 @@ The notebook is divided into the following sections:
 
 #### 2. Simple random data functions
    
-   2.1 integers()
-   2.2 random()
-   2.3 choice()
-   2.4 bytes()
+- 2.1 integers()
+- 2.2 random()
+- 2.3 choice()
+- 2.4 bytes()
    
 #### 3. Permutations functions
   
-   3.1 shuffle()
-   3.2 permutation()
+- 3.1 shuffle()
+- 3.2 permutation()
    
 #### 4. Distributions functions
   
-   4.1 chisquare()
-   4.2 exponential()
-   4.3 geometric()
-   4.4 normal()
-   4.5 rayleigh()
-   4.6 standard_t()
-   4.7 triangular()
-   4.8 uniform()
+- 4.1 chisquare()
+- 4.2 exponential()
+- 4.3 geometric()
+- 4.4 normal()
+- 4.5 rayleigh()
+- 4.6 standard_t()
+- 4.7 triangular()
+- 4.8 uniform()
 
 #### 5. Seeds
 
@@ -44,7 +43,7 @@ The notebook is divided into the following sections:
 
 ### Executing the notebook
 
-The Jupyter Notebook can be installed either from the [main website](https://jupyter.org/) or as part of the [Anaconda Open Source Distribution](https://www.anaconda.com/products/individual). Jupyter is a Python package designed to make it easier to interact with Python.
+Jupyter Notebook can be installed either from the [main website](https://jupyter.org/) or as part of the [Anaconda Open Source Distribution](https://www.anaconda.com/products/individual). Jupyter is a Python package designed to make it easier to interact with Python.
 
 1. Once Jupyter Notebook is installed, download the notebook to a folder on your computer.
 
